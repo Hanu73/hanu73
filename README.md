@@ -19,3 +19,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanu73&show_icons=true&locale=en&layout=compact" alt="hanu73" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanu73&show_icons=true&locale=en" alt="hanu73" /></p>
+
+## Github Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Hanu73&theme=buddhism&no-frame=false&no-bg=true&margin-w=4)
